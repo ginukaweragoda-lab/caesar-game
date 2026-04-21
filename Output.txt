@@ -1,0 +1,23 @@
+Welcome to the caesar cipher
+This programe encrypts text using the caesar ciper
+Would you like to encrypt (e) or decrypt (d):d
+Would you like to read from a file (f) or the console (c)?c
+What message would you like to process:LIPPS ASVPH
+What is the shift number:4
+Result:HELLO WORLD
+Would you like to process another message?(y/n):y
+Would you like to encrypt (e) or decrypt (d):e
+Would you like to read from a file (f) or the console (c)?c
+What message would you like to process:Hello WORld
+What is the shift number:4
+Result:LIPPS ASVPH
+Would you like to process another message?(y/n):y
+Would you like to encrypt (e) or decrypt (d):e
+Would you like to read from a file (f) or the console (c)?f
+Enter a filenamesomething_silly.txt
+Invalid File Name
+Enter a filenamemessages.txt
+What is the shift number:4
+Messages have been written to the result.txt.
+Would you like to process another message?(y/n):n
+Thank you for using the caesar ciper program,goodbye!
